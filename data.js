@@ -40,7 +40,7 @@ const PIE_CATEGORIES = [
       {
         name: "Justin Parkman",
         org: "PCL",
-        raised: 185,
+        raised: 295,
         donors: [
           { name: "MJ Zimmerman", amount: 100 },
           { name: "Carlos Mercado", amount: 50 },
@@ -52,18 +52,19 @@ const PIE_CATEGORIES = [
       {
         name: "Carlos Mercado",
         org: "PCL",
-        raised: 120,
+        raised: 310,
         donors: [
           { name: "Jayman Phillips", amount: 50 },
           { name: "Les Colbe", amount: 50 },
-          { name: "Mark Berg", amount: 20 }
+          { name: "Mark Berg", amount: 20 },
+           { name: "Nino Cruz", amount: 190 },
         ]
       },
 
       {
         name: "Wayne Lodge",
         org: "PCL",
-        raised: 120,
+        raised: 160,
         donors: [
           { name: "Ashlee Fuller", amount: 50 },
           { name: "Diego (NWS)", amount: 50 },
@@ -99,9 +100,10 @@ const PIE_CATEGORIES = [
        {
         name: "Gerron Martens",
         org: "PCL",
-        raised: 100,
+        raised: 130,
         donors: [
           { name: "Ellie Bron", amount: 100 },
+           { name: "Ban Chot", amount: 30 },
          
         ]
       },
@@ -126,12 +128,35 @@ const PIE_CATEGORIES = [
     icon: "📋",
     contestants: [
 
-      {
+        {
+        name: "Ashlee Fuller",
+        org: "PCL",
+        raised: 1170 ,
+        donors: [
+           { name: "Chris McDowell", amount: 250 },
+           { name: "John Lee", amount: 200 },
+           { name: "Sean C", amount: 120 },
+        ]
+      },
+       {
+        name: "Ellie Bron",
+        org: "PCL",
+        raised: 1000,
+        donors: [
+          { name: "Gerron", amount: 100 },
+          { name: "Andrew Harrington", amount: 100 },
+           { name: "Corey Disher", amount: 100 },
+         
+        ]
+      },
+       {
         name: "John Lee",
         org: "PCL",
-        raised: 120,
+        raised: 470,
         donors: [
-          { name: "Gerron Martens", amount: 100 },
+             { name: "Anonymous", amount: 300 },
+           { name: "Gerron Martens", amount: 100 },
+           { name: "Ellie Bron", amount: 50 },
           { name: "Johnny Gorgichuk", amount: 20 }
         ]
       },
