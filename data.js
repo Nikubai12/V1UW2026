@@ -74,31 +74,35 @@ const PIE_CATEGORIES = [
       {
         name: "Johnny Gorgichuk",
         org: "PCL",
-        raised: 80,
+        raised: 105,
         donors: [
           { name: "Sam Mauvin", amount: 50 },
           { name: "Loreto Barcellano", amount: 15 },
-          { name: "Bill Blake", amount: 15 }
+          { name: "Bill Blake", amount: 15 },
+           { name: "Les Colbe", amount: 25 }
         ]
       },
 
       {
         name: "Brian Catana",
         org: "PCL",
-        raised: 75,
+        raised: 100,
         donors: [
           { name: "Dayton Thomasson", amount: 40 },
           { name: "Mike Half", amount: 20 },
-          { name: "Loretto Barcellano", amount: 15 }
+          { name: "Loretto Barcellano", amount: 15 },
+           { name: "Les Colbe", amount: 25 }
+         
         ]
       },
 
       {
         name: "Nino Cruz",
         org: "PCL",
-        raised: 30,
+        raised: 100,
         donors: [
-          { name: "Terry Vanderveen", amount: 30 }
+          { name: "Terry Vanderveen", amount: 30 },
+           { name: "Les Colbe", amount: 70 }
         ]
       }
 
@@ -125,28 +129,34 @@ const PIE_CATEGORIES = [
       {
         name: "Thomas Schaller",
         org: "PCL",
-        raised: 100,
+        raised: 200,
         donors: [
-          { name: "Brian Theriault", amount: 100 }
+          { name: "Brian Theriault", amount: 100 },
+           { name: "Justin Kologie", amount: 100 }
         ]
       },
 
       {
         name: "Chris McDowell",
         org: "PCL",
-        raised: 70,
+        raised: 170,
         donors: [
           { name: "Grant Michelin", amount: 40 },
-          { name: "Raymundo (NWS)", amount: 30 }
+          { name: "Raymundo (NWS)", amount: 30 },
+           { name: "Chad Kubersky", amount: 40 },
+           { name: "Thomas Schaller", amount: 30 },
+           { name: "Les Colbe", amount: 30 }
         ]
       },
 
       {
         name: "Bill Moore",
         org: "PCL",
-        raised: 50,
+        raised: 150,
         donors: [
-          { name: "Roger Kokkula", amount: 50 }
+          { name: "Roger Kokkula", amount: 50 },
+           { name: "Thomas Schaller", amount: 50 },
+           { name: "Les Colbe", amount: 50 }
         ]
       }
 
