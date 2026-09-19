@@ -96,6 +96,16 @@ const PIE_CATEGORIES = [
         ]
       },
 
+       {
+        name: "Gerron Martens",
+        org: "PCL",
+        raised: 100,
+        donors: [
+          { name: "Ellie Bron", amount: 100 },
+         
+        ]
+      },
+
       {
         name: "Nino Cruz",
         org: "PCL",
